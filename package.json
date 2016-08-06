@@ -1,0 +1,26 @@
+{
+  "name": "quick-and-diry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@evalDev",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "coffeelint-stylish": "^0.1.2",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-coffeelint": "^0.6.0",
+    "gulp-jasmine": "^2.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.0.3",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.8",
+    "jasmine": "^2.4.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
